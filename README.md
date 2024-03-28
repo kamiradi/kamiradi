@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a robotics researcher with the Robust Autonomy Decisions group at the University of Edinburgh. I am currently working on contact-rich manipulation. An exhaustive list of my past projects can be found [here](./MY_CV%20(6).pdf).
+I am a robotics researcher with the Robust Autonomy Decisions group at the University of Edinburgh. I am currently working on contact-rich manipulation. An exhaustive list of my past projects can be found [here](./MY_CV.pdf).
 
 <!--
 **kamiradi/kamiradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
